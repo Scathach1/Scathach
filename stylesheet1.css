@@ -1,0 +1,52 @@
+﻿body
+{
+    background-color:white;
+    margin:0;
+}
+
+.nav {
+    background-color: maroon;
+    color: silver;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.nav li {
+    display: inline-block;
+    padding-right: 50px;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: silver;
+}
+
+.nav li a:hover {
+    color: black;
+}
+
+#figureoftheweek{
+    color:green;
+    border-style:solid;
+    border-color:black;
+    border-width:1px;
+}
+
+.docs {
+    background-color: maroon;
+    color: silver;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.docs li{
+    display:inline-block;
+    padding-right:50px;
+}
+
+.docs li a{
+    text-decoration:none;
+    color:silver;
+}
